@@ -1,0 +1,17 @@
+// First function
+
+<html>
+<body>
+<script>
+
+let x = myFunction(4, 3);
+document.write("product = " + x);
+
+function myFunction(a, b) {
+  return a * b;
+}
+
+
+</script>
+</body>
+</html>
