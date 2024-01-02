@@ -1,0 +1,12 @@
+// array
+<html>
+<body>
+<script>
+
+const char= ["A","B","C","D"];
+document.write(char);
+console.log(char);
+
+</script>
+</body>
+</html>
