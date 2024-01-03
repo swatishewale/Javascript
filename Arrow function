@@ -1,0 +1,17 @@
+// Arrow function
+
+<html>
+<body>
+<script>
+
+
+var num = (x,y) => {  
+    document.write(x*y);  
+}  
+
+num(100,200);  
+
+
+</script>
+</body>
+</html>
